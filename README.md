@@ -22,5 +22,5 @@ else:
   raiz1=-b+raizdedelta/2*a
   print("Raiz 1 é igual a:), raiz1)
   raiz2=-b+raizdedelta/2*a
-  print("Raiz 2 é igual a:), raiz1)
+  print("Raiz 2 é igual a:), raiz2)
 ```
